@@ -28,7 +28,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>helloworld_java</finalName>
+		<finalName>ROOT</finalName>
 		<plugins>
 			<!-- web.xml is missing and <failOnMissingWebXml> is set to true -->
 			<plugin>
